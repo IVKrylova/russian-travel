@@ -1,9 +1,9 @@
 .place {
   display: grid;
-  grid-template-columns: 460px 484px;
+  grid-template-columns: 46.75% 49.18%;
   grid-template-rows: repeat(2, minmax(min-content, max-content));
-  column-gap: 40px;
-  row-gap: 48px;
+  column-gap: 4.07%;
+  row-gap: 4.88%;
 }
 
 .place:not(:first-child) {
