@@ -18,10 +18,8 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 580px) {
   .place__paragraph {
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 16px;
   }
 }

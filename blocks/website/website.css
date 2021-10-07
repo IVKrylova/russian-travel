@@ -1,3 +1,9 @@
 .website {
   align-self: end;
 }
+
+@media screen and (max-width: 580px) {
+  .website {
+    margin-left: 16px;
+  }
+}
