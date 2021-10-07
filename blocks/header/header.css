@@ -1,4 +1,18 @@
 .header {
   display: flex;
   justify-content: space-between;
+  width: calc(100% - 48px - 48px);
+  align-self: center;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: calc(100% - 24px - 24px);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-links {
+    width: calc(100% - 16px - 16px);
+  }
 }
