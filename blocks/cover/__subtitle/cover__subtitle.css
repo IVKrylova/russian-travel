@@ -2,9 +2,40 @@
   position: relative;
   z-index: 3;
   max-width: 360px;
-  width: 30.4%;
   margin: 32px auto 343px;
   font-size: 18px;
   line-height: 1.22;
   text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__subtitle {
+    margin-bottom: 195px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    margin-bottom: 115px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .cover__subtitle {
+    margin-bottom: 74px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .cover__subtitle {
+    margin-bottom: 54px;
+    font-size: 14px;
+    line-height: 1.14;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    margin: 16px auto 33px;
+  }
 }

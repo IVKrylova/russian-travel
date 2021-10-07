@@ -5,7 +5,31 @@
   align-items: center;
   margin: 92px auto 0;
   max-width: 1184px;
-  width: 92.5%;
   background-image: url(../../images/cover-trains.jpg);
   background-size: cover;
+}
+
+@media screen and (max-width: 1220px) {
+  .cover {
+    width: 100%;
+    max-width: 1220px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+   margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .cover {
+   margin-top: 78px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+   margin-top: 66px;
+  }
 }
