@@ -9,4 +9,4 @@
 5. Griid-css
 6. Отзывчивая верстка
 
-* [Ссылка на проект в GitHub Pages]()
+* [Ссылка на проект в GitHub Pages](https://ivkrylova.github.io/russian-travel/)
