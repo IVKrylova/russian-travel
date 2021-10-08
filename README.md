@@ -14,4 +14,5 @@
 * Добавить карту путешествия с помощью тега iframe
 * Добавить расписание поездов с помощью тега iframe
 
-* [Ссылка на проект в GitHub Pages](https://ivkrylova.github.io/russian-travel/)
+
+[Ссылка на проект в GitHub Pages](https://ivkrylova.github.io/russian-travel/)
