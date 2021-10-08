@@ -8,10 +8,6 @@
   text-align: center;
 }
 
-.cover__subtitle:hover {
-  cursor: pointer;
-}
-
 @media screen and (max-width: 1024px) {
   .cover__subtitle {
     margin-bottom: 195px;
