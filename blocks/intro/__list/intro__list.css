@@ -4,6 +4,7 @@
   list-style-type: none;
   font-size: 12px;
   line-height: 1.5;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 1024px) {
