@@ -24,13 +24,6 @@
   }
 }
 
-@media screen and (max-width: 580px) {
-  .place__title {
-    box-sizing: border-box;
-    padding-left: 16px;
-  }
-}
-
 @media screen and (max-width: 550px) {
   .place__title {
     font-size: 36px;
@@ -40,6 +33,13 @@
 @media screen and (max-width: 470px) {
   .place__title {
     font-size: 34px;
+  }
+}
+
+@media screen and (max-width: 432px) {
+  .place__title {
+    box-sizing: border-box;
+    padding-left: 16px;
   }
 }
 
