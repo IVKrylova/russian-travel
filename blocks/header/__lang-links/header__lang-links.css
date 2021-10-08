@@ -9,3 +9,9 @@
     margin-top: 30px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-links {
+    width: calc(100% - 16px - 16px);
+  }
+}
