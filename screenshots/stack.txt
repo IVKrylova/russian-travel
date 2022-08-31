@@ -1,0 +1,76 @@
+## Используемые технологии
+1. HTML5
+2. Методология БЭМ
+3. Флексбокс-верстка
+4. CSS3-анимация
+5. Grid-css
+6. Отзывчивая верстка
+
+
+
+Pixel perfect
+Figma
+
+## Используемые технологии
+1. HTML5
+2. Флексбокс-верстка
+3. CSS3-анимация
+4. Grid-css
+5. Отзывчивая верстка
+6. JavaScript, jQuery
+7. PHP
+8. Библиотеки owl-carousel и animate
+9. Скрипты masked, Remodal-master, lightbox
+
+
+Denwer
+Photoshop
+
+HTML5, CSS3
+Флексбокс-верстка, Grid-css, oтзывчивая вёрстка
+Кроссбраузерность
+JavaScript, jQuery
+PHP 7
+MySQL
+Библиотеки Owl-carousel, Animate, Masked, Remodal-master, Lightbox
+
+Инструменты
+Photoshop
+XMind
+Денвер
+Яндекс.Метрика
+Google Analytics
+
+
+
+## Используемые технологии
+1. HTML5, CSS3
+2. Методология БЭМ
+3. Флексбокс-верстка, Grid-css, отзывчивая верстка
+4. JS, React
+5. MongoDB
+
+## Инструменты
+1. Figma
+2. Яндекс.Метрика
+3. Google Analytics
+4. reCAPTCHA
+
+
+
+## Используемые технологии
+1. Express.js
+2. MongoDB
+3. REST API
+
+## Инструменты
+1. MongoDB Compass
+2. Postman
+
+
+
+
+
+
+
+
